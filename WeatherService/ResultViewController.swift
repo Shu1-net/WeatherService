@@ -15,7 +15,7 @@ class ResultViewController: UIViewController {
 
 
 //class変数
-    let apiKey = "b37b96f2516d2efd8f35792eedb69c11" //各々で書き換えてください
+    let apiKey = "b37b96f2516d2efd8f35792eedb69c11" //各々のキーを書き換えてください！
     
     var cityData: [String] = ["osaka","大阪"] //いちおう初期値を入れておく
     
